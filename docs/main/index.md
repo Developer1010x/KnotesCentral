@@ -6,27 +6,27 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 
 ## UG Courses
 
-| Department | Link                     |
-| ---------- | ------------------------ |
-| CSE        | [CSE](./CSE/index.md)    |
-| ISE        | [ISE](./CSE/index.md)    |
-| AIML       | [AIML](./CSE/index.md)   |
-| ECE        | [ECE](./ECE/index.md)    |
-| ETE        | [ETE](./ETE/index.md)    |
-| EIE        | [EIE](./EIE/index.md)    |
-| EEE        | [EEE](./EEE/index.md)    |
-| MECH       | [MECH](./ME/index.md)    |
-| CIVIL      | [CIVIL](./CV/index.md)   |
-| BIOTECH    | [BIOTECH](./BT/index.md) |
-| CHEM       | [CHEM](./CH/index.md)    |
-| ASE        | [ASE](./ASE/index.md)    |
+| Department | Link                      |
+| ---------- | ------------------------- |
+| CSE        | [CSE](../CSE/index.md)    |
+| ISE        | [ISE](../CSE/index.md)    |
+| AIML       | [AIML](../CSE/index.md)   |
+| ECE        | [ECE](../ECE/index.md)    |
+| ETE        | [ETE](../ETE/index.md)    |
+| EIE        | [EIE](../EIE/index.md)    |
+| EEE        | [EEE](../EEE/index.md)    |
+| MECH       | [MECH](../ME/index.md)    |
+| CIVIL      | [CIVIL](../CV/index.md)   |
+| BIOTECH    | [BIOTECH](../BT/index.md) |
+| CHEM       | [CHEM](../CH/index.md)    |
+| ASE        | [ASE](../ASE/index.md)    |
 
 ## Basic Sciences
 
 | Cycle     | Link                         |
 | --------- | ---------------------------- |
-| Physics   | [Physics](./PHY/index.md)    |
-| Chemistry | [Chemistry](./CHEM/index.md) |
+| Physics   | [Physics](../PHY/index.md)    |
+| Chemistry | [Chemistry](../CHEM/index.md) |
 
 ## Miscellaneous
 
